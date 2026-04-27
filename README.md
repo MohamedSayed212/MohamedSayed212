@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Sayed
+# Hi , I'm Mohamed Sayed
 
 ### Front-End Developer (React)
 
