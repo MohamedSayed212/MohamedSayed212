@@ -39,11 +39,10 @@ I build clean, modern, and responsive web applications with a focus on user expe
 ---
 
 ## 🌍 About Me
-- Computer Science student
 - Front-end developer focused on React
 - Passionate about building real-world applications
 - Continuously improving my skills in JavaScript and modern web technologies
-
+- Computer Science student
 ---
 
 ## 📫 Contact Me
