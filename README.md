@@ -48,7 +48,7 @@ I build clean, modern, and responsive web applications with a focus on user expe
 ## Contact Me
 - Email: mohamedsayed.dev01@gmail.com  
 -  GitHub: https://github.com/MohamedSayed212  
--  LinkedIn: https://linkedin.com/in/yourusername  
+-  LinkedIn: https://www.linkedin.com/in/mohamed-sayed-dev/
 
 ---
 
