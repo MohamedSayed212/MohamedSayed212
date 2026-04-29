@@ -4,9 +4,6 @@
 
 I build clean, modern, and responsive web applications with a focus on user experience and real-world functionality.
 
-## 📄 Resume & Portfolio
-
-- 📄 [Download CV](https://your-portfolio.vercel.app/Mohamed-CV.pdf)
 - 🌐 [View Portfolio](https://personal-portfolio-omega-nine-78.vercel.app)
 ---
 
